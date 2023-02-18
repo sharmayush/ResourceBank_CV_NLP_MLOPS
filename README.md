@@ -4,7 +4,7 @@ This is the educational resources on a daily basis.
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=800px height=350px src="images\homepage.jpg"" alt="Project logo"></a>
+ <img width=800px height=350px src=".\images\homepage.jpg"" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Resource Bank of Computer Vision, Natural Langauge Processing and MLops</h3>
