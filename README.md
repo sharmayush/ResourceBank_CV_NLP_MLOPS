@@ -37,6 +37,8 @@ Special Thanks : Ashish Patel(https://www.linkedin.com/in/ashishpatel2604/)
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1     | Intro to optimization in deep learning: Gradient Descent            | [👆](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/) |
 | 2     | End to End Learning for Self-Driving Cars using python                          | [👆](https://medium.com/@dipeshshtha4/end-to-end-learning-for-self-driving-cars-using-python-c5e8852af3e6) |
+| 3     | Accuracy and Loss: Things to Know about The Top 1 and Top 5 Accuracy                          | [👆](https://towardsdatascience.com/accuracy-and-loss-things-to-know-about-the-top-1-and-top-5-accuracy-1d6beb8f6df3) |
+| 4     | LOLNeRF: Learn from One Look | [👆](https://ai.googleblog.com/2022/09/lolnerf-learn-from-one-look.html?m=1) |
 
 ## Video
 | Sr No | Name                                                         | Link                                                         |
@@ -53,7 +55,7 @@ Special Thanks : Ashish Patel(https://www.linkedin.com/in/ashishpatel2604/)
 | 4     | Open-Set Semi-Supervised Object Detection                       | [👆](https://ycliu93.github.io/projects/ossod.html) |
 | 5     | Machine-Learning-Interview                             | [👆](https://github.com/khangich/machine-learning-interview) |
 | 6     | Free datasets for your data science, data analytics, and machine learning projects                          | [👆](https://www.linkedin.com/posts/dhavalsays_datasciencetraining-datasciencecareers-machinelearningtraining-activity-6973845094596542464-I0Cy/?utm_source=share&utm_medium=member_ios) |
-
+| 7     | How To Deal with Dataset Bias | [👆](https://youtu.be/nMDpcqx6ll8) |
 
 
 ## 👁️‍🗨️ COMPUTER VISION
@@ -108,7 +110,7 @@ Special Thanks : Ashish Patel(https://www.linkedin.com/in/ashishpatel2604/)
 ## Video
 | Sr No | Name                                                         | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1     | 
+| 1     | FedML MLOps Introduction                          | [👆](https://www.youtube.com/watch?v=Xgm0XEaMlVQ&ab_channel=ChaoyangHe) |
 
 
 
