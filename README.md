@@ -77,6 +77,11 @@ Special Thanks : Ashish Patel(https://www.linkedin.com/in/ashishpatel2604/)
 | 1     | 
 
 
+## Other
+| Sr No | Name                                                         | Link                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1     | Python Libraries for Mesh, Point Cloud, and Data Visualization                          | [👆](https://towardsdatascience.com/python-libraries-for-mesh-point-cloud-and-data-visualization-part-2-385f16188f0f) |
+
 
 ## 📝 NATURAL LANGUAGE PROCESSING
 
@@ -94,6 +99,12 @@ Special Thanks : Ashish Patel(https://www.linkedin.com/in/ashishpatel2604/)
 | Sr No | Name                                                         | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1     | 
+
+## Other
+| Sr No | Name                                                         | Link                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1     | multi-task-NLP                          | [👆](https://github.com/hellohaptik/multi-task-NLP) |
+
 
 ## 👨‍💻 MLOPS
 
